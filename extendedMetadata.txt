@@ -4,7 +4,7 @@
 	"location": "Rome, Italy",
 	"social": {
 		"twitter_handle": "PoolItalian",
-		"telegram_handle": "xxxx",
+		"telegram_handle": "",
 		"facebook_handle": "",
 		"youtube_handle": "",
 		"twitch_handle": "",
